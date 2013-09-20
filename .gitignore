@@ -1,3 +1,5 @@
 wp-config.php
 favicon.ico
 wp-content/debug.log
+wp-content/cache/
+wp-content/w3tc-config/
